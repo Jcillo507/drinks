@@ -149,7 +149,7 @@ Navbar
 }
 .nav-links {
   display: flex;
-  align-items: center;
+  align-items: center;;
 }
 .nav-links a {
   text-transform: capitalize;
